@@ -23,7 +23,7 @@ Now the server is running and waiting for client connection.
 ## Running client
 
 At the root directory:
-cd client
-yarn start
+* cd client
+* yarn start
 
 
