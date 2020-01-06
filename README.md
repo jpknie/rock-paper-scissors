@@ -3,14 +3,22 @@
 
 ## Installing
 
-cd client, run yarn install
-cd server, run npm install
+At root directory:
+* cd client
+* run yarn install
+
+At root directory:
+* cd server
+* run npm install
 
 ## Running server
 
-You need to have mongodb installed on your system. In server directory run mongod --dbpath data/
-then type: node main.js
-now the server is running and waiting for client connection.
+You need to have mongodb installed on your system. 
+
+* In server directory run mongod --dbpath data/
+* then type: node main.js
+
+Now the server is running and waiting for client connection.
 
 ## Running client
 
