@@ -21,6 +21,7 @@ You need to have mongodb installed on your system.
 Now the server is running and waiting for client connection.
 
 ## Running client
+* Open up new terminal window
 
 At the root directory:
 * cd client
